@@ -45,7 +45,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Fine Fragrances"
-                    android:textColor="#CCCCCC"
+                    android:textColor="@color/pt_text_on_dark"
                     android:textSize="11sp" />
             </LinearLayout>
 
@@ -81,7 +81,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Discover Your"
-                android:textColor="#DDDDDD"
+                android:textColor="@color/pt_text_on_dark"
                 android:textSize="18sp"
                 android:textStyle="italic" />
 
@@ -105,7 +105,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Luxury fragrances crafted for every moment"
-                android:textColor="#BBBBBB"
+                android:textColor="@color/pt_text_on_dark"
                 android:textSize="13sp"
                 android:gravity="center" />
         </LinearLayout>
@@ -486,7 +486,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="A timeless bouquet of Bulgarian rose and jasmine"
-                        android:textColor="#888888"
+                        android:textColor="@color/pt_text_hint"
                         android:textSize="11sp"
                         android:layout_marginTop="4dp" />
 
@@ -552,7 +552,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Deep cedarwood with smoky oud undertones"
-                        android:textColor="#888888"
+                        android:textColor="@color/pt_text_hint"
                         android:textSize="11sp"
                         android:layout_marginTop="4dp" />
 
@@ -617,7 +617,7 @@
                         android:layout_width="wrap_content"
                         android:layout_height="wrap_content"
                         android:text="Light sea breeze with hints of citrus and musk"
-                        android:textColor="#888888"
+                        android:textColor="@color/pt_text_hint"
                         android:textSize="11sp"
                         android:layout_marginTop="4dp" />
 
@@ -657,7 +657,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="www.perfumetreasure.net"
-                android:textColor="#AAAAAA"
+                android:textColor="@color/pt_text_on_dark"
                 android:textSize="11sp"
                 android:layout_marginTop="4dp" />
         </LinearLayout>

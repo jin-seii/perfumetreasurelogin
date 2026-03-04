@@ -54,7 +54,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:text="Join to explore exclusive fragrances"
-                android:textColor="#BBBBBB"
+                android:textColor="@color/pt_text_on_dark"
                 android:textSize="13sp"
                 android:layout_marginTop="4dp" />
         </LinearLayout>

@@ -10,8 +10,9 @@
     <color name="pt_gold">#C9A84C</color>
     <color name="pt_gold_light">#E8C76A</color>
     <color name="pt_cream">#FDF6EC</color>
-    <color name="pt_cream_dark">#F5E6D0</color>
     <color name="pt_text_dark">#1A0A2E</color>
     <color name="pt_text_medium">#5C4A7A</color>
+    <color name="pt_text_on_dark">#CCCCCC</color>
+    <color name="pt_text_hint">#888888</color>
     <color name="pt_divider">#E0D0F0</color>
 </resources>
