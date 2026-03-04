@@ -7,6 +7,20 @@
     <string name="next">Next</string>
     <string name="previous">Previous</string>
 
+    <!-- Homepage Strings -->
+    <string name="welcome_title">Welcome to Perfume Treasure</string>
+    <string name="welcome_subtitle">Discover Your Signature Scent</string>
+    <string name="hero_description">Explore our curated collection of premium fragrances from around the world. Find the perfect scent that tells your story.</string>
+    <string name="account_section_title">Your Account</string>
+    <string name="logged_in_message">Welcome back, %1$s!</string>
+    <string name="not_logged_in_message">Sign in to unlock exclusive features and personalized recommendations</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_signup">Sign Up</string>
+    <string name="btn_logout">Log Out</string>
+    <string name="featured_section_title">Featured Collections</string>
+    <string name="featured_description">Browse our hand-picked selection of the finest fragrances</string>
+    <string name="discover_more">Discover More</string>
+
     <string name="lorem_ipsum">
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
         volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
