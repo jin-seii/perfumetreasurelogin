@@ -1,8 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
-    <style name="Base.Theme.PerfumeApp" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    <style name="Base.Theme.PerfumeApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/pt_purple</item>
+        <item name="colorPrimaryDark">@color/pt_purple_dark</item>
+        <item name="colorSecondary">@color/pt_gold</item>
+        <item name="colorSurface">@color/pt_cream</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/pt_cream</item>
     </style>
 
     <style name="Theme.PerfumeApp" parent="Base.Theme.PerfumeApp" />

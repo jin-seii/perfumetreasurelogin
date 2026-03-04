@@ -2,4 +2,16 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <!-- Perfume Treasure Brand Colors -->
+    <color name="pt_purple_dark">#2D1B4E</color>
+    <color name="pt_purple">#4A2C7A</color>
+    <color name="pt_purple_light">#6B3FA0</color>
+    <color name="pt_gold">#C9A84C</color>
+    <color name="pt_gold_light">#E8C76A</color>
+    <color name="pt_cream">#FDF6EC</color>
+    <color name="pt_cream_dark">#F5E6D0</color>
+    <color name="pt_text_dark">#1A0A2E</color>
+    <color name="pt_text_medium">#5C4A7A</color>
+    <color name="pt_divider">#E0D0F0</color>
 </resources>
