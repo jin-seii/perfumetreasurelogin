@@ -1,7 +1,11 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
-    <!-- Base application theme. -->
-    <style name="Base.Theme.PerfumeApp" parent="Theme.Material3.DayNight.NoActionBar">
-        <!-- Customize your dark theme here. -->
-        <!-- <item name="colorPrimary">@color/my_dark_primary</item> -->
+    <!-- Night theme: use Dark parent while preserving the brand palette -->
+    <style name="Base.Theme.PerfumeApp" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="colorPrimary">@color/pt_purple</item>
+        <item name="colorPrimaryDark">@color/pt_purple_dark</item>
+        <item name="colorSecondary">@color/pt_gold</item>
+        <item name="colorSurface">@color/pt_cream</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:windowBackground">@color/pt_cream</item>
     </style>
 </resources>
